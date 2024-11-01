@@ -1,0 +1,2 @@
+# MaxiBot
+WMMT Discord Bot
